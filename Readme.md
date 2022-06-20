@@ -1,6 +1,6 @@
 ﻿# Autism web app deployed on Heroku
 
-This deployed web app is live at .
+This deployed web app is live at - [https://autism-pred-app.herokuapp.com/](https://autism-pred-app.herokuapp.com/) .
 
 This web app predict whether person has Autism Disorder as a function of their input parameters
 
