@@ -25,7 +25,7 @@ This web app predict whether person has Autism Disorder as a function of their i
 
 1) `train.csv` = Dataset provided to train ML model for Autism Disorder Prediction
 
-2) `dataExploration.ipnyb` = Performed EDA and basic data exploration. Also, infered required pre-processing step to be implemented
+2) `dataExploration.ipnyb` = Performed EDA and basic data exploration. Also, inferred required pre-processing steps to be implemented
 3) `dataPreprocess.ipnyb` = Implemented pre-processing steps by creating data Pipeline, ColumnTransformers and FunctionTransformers. 
                             Saved transformed data into CSV `preprocessed_data.csv`.
 4) `model-training.ipnyb` = Built ML models by feeding pre-processes data and compared performance. Saved best model to make predcitions on User input
@@ -35,6 +35,6 @@ This web app predict whether person has Autism Disorder as a function of their i
 7) `Procfile` = Commands to execute that run webapp on server
 8) `setup.sh` = Server side configuration
 
-
+**NOTE:-** Shared Kaggle Notebook explaining hyper-parameter tuning of Decision Tree on the same Autism dataset.[link](https://www.kaggle.com/code/abhipatel2103/hyper-parameter-tuning-in-decision-tree)
 
 
